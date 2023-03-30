@@ -2,7 +2,7 @@
 ![forks](https://img.shields.io/github/forks/Dylan-Zheng/Rise-of-Kingdoms-Bot)
 ![stars](https://img.shields.io/github/stars/Dylan-Zheng/Rise-of-Kingdoms-Bot)
 ![lincense](https://img.shields.io/github/license/Dylan-Zheng/Rise-of-Kingdoms-Bot)
-#### I‘m apology to any who still using this bot, I'm not longer develop this project
+#### If I get 100 stars, I will public the current working source code including GEM farming, babarian attack fixing, captcha fixing
 
 # Rise of Kingdom Bot
 
